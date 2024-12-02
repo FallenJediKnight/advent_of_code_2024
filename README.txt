@@ -1,1 +1,3 @@
-Empty readme - getting read for advent of code 2024!
+Doing the advent of code challenge 2024! 
+
+See https://adventofcode.com/2024
