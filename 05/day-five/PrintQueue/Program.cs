@@ -41,6 +41,7 @@ namespace PrintQueue
             }
             
             printQueue.PrintMidPointSum();
+            Console.WriteLine(printQueue.FixInvalidOrderings());
             watch.Stop();
             Console.WriteLine($"Puzzle 1 execution time: {watch.ElapsedMilliseconds} ms");
         }
