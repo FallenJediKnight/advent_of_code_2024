@@ -49,7 +49,7 @@ namespace BridgeRepair
             
             Console.WriteLine($"Total: {total}");
             watch.Stop();
-            Console.WriteLine($"Puzzle 1 execution time: {watch.ElapsedMilliseconds} ms");
+            Console.WriteLine($"Puzzle 2 execution time: {watch.ElapsedMilliseconds} ms");
         }
     }
 }
